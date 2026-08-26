@@ -1,7 +1,7 @@
 Hi 👋 I'm Cüneyt Kaan
 ============================
 
-a Software QA Engineer who works in Vodafone as an outsource through Vitelco.
+a Senior Software QA Engineer who works in Vodafone as an outsource via Vitelco.
 --------------------
 
 I have now 5 and half years experince in my testing career and I have ISTQB Certificate. I'm most skilled in Java and Selenium.
